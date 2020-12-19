@@ -41,7 +41,11 @@
 </p>
 
 <h5 align="center">
-  <img src="./assets/githubImagesReadme/dashboardRockeseat.png"/>
+  <img src="./assets/githubImagesReadme/login.png"/>
+</h5>
+
+<h5 align="center">
+  <img src="./assets/githubImagesReadme/register.png"/>
 </h5>
 
 
