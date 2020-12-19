@@ -1,12 +1,12 @@
 
 <h1 align="center">
-  <img src="./src/assets/githubImagesReadme/logo.svg" width="500px"/>
+  <img src="./src/assets/logo.png" width="500px"/>
 </h1>
 
 <h2 align="center"> Aplicação para gerenciamento de barbearias :haircut_man: </h2>
 
 <h3 align="center">
-  GoBarber - Aplicação Frontend com React com Typescript
+  GoBarber - Aplicação Mobile feita com React e com Typescript
 </h3>
 
 <p align="center">
