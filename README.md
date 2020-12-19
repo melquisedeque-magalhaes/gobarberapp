@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="./src/assets/logo.png" width="500px"/>
+  <img src="./assets/githubImagesReadme/logo.svg" width="500px"/>
 </h1>
 
 <h2 align="center"> Aplicação para gerenciamento de barbearias :haircut_man: </h2>
@@ -41,11 +41,11 @@
 </p>
 
 <h5 align="center">
-  <img src="./assets/githubImagesReadme/login.png" width="400" height="400" />
+  <img src="./assets/githubImagesReadme/login.png" width="500" height="600px" />
 </h5>
 
 <h5 align="center">
-  <img src="./assets/githubImagesReadme/register.png" width="400" height="400" />
+  <img src="./assets/githubImagesReadme/register.png" width="500" height="600px" />
 </h5>
 
 
